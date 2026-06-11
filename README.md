@@ -13,7 +13,6 @@ In ‘h’ parameters of a two port network, voltage of the input port and the c
 Thus,
 
 V1= h11 * I1+h12 * V2	......(1)
-
 I2 = h21 * I1+h22 * V22	....(2)
 
 h11 and h22 are input impedance and output admittance.
